@@ -5,7 +5,7 @@ What does it mean to turn text into data? What are the data-scientific technique
 
 Introductory courses in computer science and statistics are recommended (but not required) as prerequisites for this course. You will complete all programming exercises in Python, and all in-class assessments—including the final exam—in writing, by hand. As part of your contribution to the class project, you will be expected to submit documentation in Markdown format, and create and give in-class presentations using slide software of your choosing. You will also be expected to take in-class notes in a notebook that I will provide.
 
-- [Syllabus](docs/QTM340-Fall2026-forweb.pdf)
+- [Syllabus](docs/DSCI340-Fall2026-forweb.pdf)
 - [Course Calendar](docs/schedule.md)
 - Course on [Canvas](https://canvas.emory.edu/courses/163427) (Emory students only)
 - [Email me](mailto:lauren.klein@emory.edu)!
