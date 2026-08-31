@@ -1,133 +1,150 @@
 # **QTM 340: Class-by-Class Schedule**
 
-*Class schedule subject to change.*  
-*Please consult Canvas for the most current class schedule.*
+*Class schedule subject to change. Please consult Canvas for the most current class schedule.*
 
-## **First Week**
+## **Intro Week**
 
-**1\. Wednesday, August 26th – Course overview and syllabus**
+**Wednesday, August 26th – Course overview and syllabus**
+
+* In class: transcription exercise
 
 ## **Unit 1: From Counting Words to Large Language Models**
 
-**2\. Monday, August 31st – Counting words**
+**Monday, August 31st – Counting words**
 
-// In class: sk-learn, log odds, and a UFO dataset\!
+* In class: sk-learn, log odds, and a UFO dataset\!
 
-**3\. Wednesday, September 2nd – Word vectors**
+**Wednesday, September 2nd – Word vectors**
 
-// In class: word2vec and a first look at neural networks
+* In class: word2vec and a first look at neural networks
 
-**— Monday, September 7th – NO CLASS \- LABOR DAY**
+**Monday, September 7th – NO CLASS \- LABOR DAY**
 
-**4\. Wednesday, September 9th – On the way to transformers**
+**Wednesday, September 9th – On the way to transformers**
 
-// In class: RNNs, LSTMs, contextual embeddings if time
+* In class: RNNs, LSTMs, contextual embeddings if time
 
-**5\. Monday, September 14th – Intro to transformers**
+**Monday, September 14th – Intro to transformers**
 
-// In class: attention, the transformer
+* In class: attention, the transformer
 
-**6\. Wednesday, September 16th – Unit 1 Review Day**
+**Wednesday, September 16th – Unit 1 Review Day**
 
-**7\. Monday, September 21st – In-class exam**  
-**DUE:** FIRST EXAM  
-**DUE:** Notebook check (everyone\!)
+* In class: Exam review 
 
-## **Unit 2: Our Own ~~Large~~ Medium-Sized Language Model**
+**Monday, September 21st – In-class exam**  
 
-**8\. Wednesday, September 23rd – Project overview**  
-Guest lecture: Trip Venturella (Mr. Chatterbox)
+* **DUE:** FIRST EXAM  
+* **DUE:** Notebook check (everyone\!)
 
-**9\. Monday, September 28th – Step 1: Learning about our cluster**
+## **Unit 2: Our Own Large(ish) Language Model**
 
-// In class: cloud infrastructure, data centers (incl. ours in Virginia), and the command line
+**Wednesday, September 23rd – Project overview**  
 
-**10\. Wednesday, September 30th – Step 2: Downloading / filtering our training data**  
-**DUE:** Step 1 (everyone\!)
+* Guest lecture: Trip Venturella (Mr. Chatterbox)
 
-// In class: pandas, regex, why libraries (of books) matter
+**Monday, September 28th – Step 1: Learning about our cluster**
 
-**11\. Monday, October 5th – Step 3: Training the tokenizer**  
-**DUE:** Step 2
+* In class: cloud infrastructure, data centers (incl. ours in Virginia), and the command line
 
-// In class: more on training data, tokenizers
+**Wednesday, September 30th – Step 2: Downloading / filtering our training data**  
 
-**12\. Wednesday, October 7th – Step 4: Pretraining the model**  
-**DUE:** Step 3
+* In class: pandas, regex, why libraries (of books) matter
+* **DUE:** Step 1 (everyone\!)
 
-// In class: more on attention, transformers
 
-**— Monday, October 12th – NO CLASS \- FALL BREAK**
+**Monday, October 5th – Step 3: Training the tokenizer**  
+
+* In class: more on training data, tokenizers
+* **DUE:** Step 2
+
+**Wednesday, October 7th – Step 4: Pretraining the model**  
+
+* In class: more on attention, transformers
+* **DUE:** Step 3
+
+**Monday, October 12th – NO CLASS \- FALL BREAK**
 
 ## **Unit 3: Model Fine-Tuning**
 
-**13\. Wednesday, October 14th – Step 5: Dialogue extraction**  
-**DUE:** Step 4
+**Wednesday, October 14th – Step 5: Dialogue extraction**  
 
-// In class: spaCy, more regex, why domain expertise matters
+* In class: spaCy, more regex, why domain expertise matters
+* **DUE:** Step 4
 
-**14\. Monday, October 19th – Step 6: Quality filtering**  
-**DUE:** Step 5
+**Monday, October 19th – Step 6: Quality filtering**  
 
-// In class: sentence embeddings, cosine similarity, sampling
+* In class: sentence embeddings, cosine similarity, sampling
+* **DUE:** Step 5
 
-**15\. Wednesday, October 21st – Step 7: Question re-writing**  
-**DUE:** Step 6
+**Wednesday, October 21st – Step 7: Question re-writing**  
 
-// In class: pretrained models, prompting, APIs
+* In class: pretrained models, prompting, APIs
+* **DUE:** Step 6
 
-**16\. Monday, October 26th – Step 8: Synthetic conversation generation**  
-**DUE:** Step 7  
-**DUE:** Notebook check (everyone\!)
+**Monday, October 26th – Step 8: Synthetic conversation generation**  
 
-// In class: more prompting, clustering, classification
+* In class: more prompting, clustering, classification
+* **DUE:** Step 7  
+* **DUE:** Notebook check (everyone\!)
 
-**— Wednesday, October 28th – NO CLASS MEETING, professor at Parsons – catch-up day**
 
-**17\. Monday, November 2nd – Step 9: Data evaluation, deduplication**  
-**DUE:** Step 8
+**Wednesday, October 28th – NO CLASS MEETING, professor at Parsons**
 
-// In class: annotation, lexicons, a return to regex (always\!)
+* Catch-up day
 
-**18\. Wednesday, November 4th – Step 10: Supervised fine-tuning and evaluation, day 1 – behavioral**  
-**DUE:** Step 9
+**Monday, November 2nd – Step 9: Data evaluation, deduplication**  
 
-// In class: fine-tuning and evaluation measures, human vs. machine evaluation
+* In class: annotation, lexicons, a return to regex (always\!)
+* **DUE:** Step 8
 
-**19\. Monday, November 9th – Step 11: SFT and evaluation, day 2 – instructions**  
-**DUE:** Step 10
+**Wednesday, November 4th – Step 10: Supervised fine-tuning and evaluation, day 1 – behavioral**  
 
-// In class: instruct vs. base models, creating an instruction dataset
+* In class: fine-tuning and evaluation measures, human vs. machine evaluation
+* **DUE:** Step 9
 
-**— Wednesday, November 11th – NO CLASS MEETING, professor at MIT – catch-up day**
+**Monday, November 9th – Step 11: SFT and evaluation, day 2 – instructions**  
+
+* In class: instruct vs. base models, creating an instruction dataset
+* **DUE:** Step 10
+
+**Wednesday, November 11th – NO CLASS MEETING, professor at MIT**
+
+* Catch-up day
 
 ## **Unit 4: Deployment**
 
-**20\. Monday, November 16th – Step 12: Huggingface deployment**  
-**DUE:** Step 11
+**Monday, November 16th – Step 12: Huggingface deployment**  
 
-// In class: Huggingface, Gradio, model cards, the open source / open weight debate
+* In class: Huggingface, Gradio, model cards, the open source / open weight debate
+* **DUE:** Step 11
 
-**21\. Wednesday, November 18th – Step 13: Celebrate\! We trained a large language model\!**  
-**DUE:** Step 12
 
-**— Monday, November 23rd – NO CLASS \- THANKSGIVING**
+**Wednesday, November 18th – Step 13: Celebrate\! We trained a large language model\!**  
 
-**— Wednesday, November 25th – NO CLASS \- THANKSGIVING**
+* **DUE:** Step 12
+
+**Monday, November 23rd – NO CLASS \- THANKSGIVING**
+
+**Wednesday, November 25th – NO CLASS \- THANKSGIVING**
 
 ## **Unit 5: Speculations / Course Wrap-Up**
 
 **22\. Monday, November 30th – RLHF (DPO too)**
 
-// In class: what is RLHF, who does RLHF, and at what cost?
+* In class: what is RLHF, who does RLHF, and at what cost?
 
 **23\. Wednesday, December 2nd – Benchmarks**  
-**DUE:** Last notebook check
 
-// In class: what are benchmarks, why are they used, and what are their limits?
+* In class: what are benchmarks, why are they used, and what are their limits?
+* **DUE:** Last notebook check
 
-**24\. Monday, December 7th – Catch-Up Day**
+**Monday, December 7th**
 
-**25\. Wednesday, December 9th – Exam review**
+* Catch-Up Day
+
+**Wednesday, December 9th** 
+
+* Exam review
 
 **FINAL EXAM MONDAY, DECEMBER 14th**
